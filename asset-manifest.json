@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/666vaishnav666/TicTacToe-New.git/static/css/main.0afcb9a0.css",
-    "main.js": "/666vaishnav666/TicTacToe-New.git/static/js/main.993691c4.js",
-    "static/media/ring.png": "/666vaishnav666/TicTacToe-New.git/static/media/ring.70414ce1c3e3258600dd.png",
-    "static/media/cross.png": "/666vaishnav666/TicTacToe-New.git/static/media/cross.0ab1f11baa7706b4d505.png",
-    "index.html": "/666vaishnav666/TicTacToe-New.git/index.html",
-    "main.0afcb9a0.css.map": "/666vaishnav666/TicTacToe-New.git/static/css/main.0afcb9a0.css.map",
-    "main.993691c4.js.map": "/666vaishnav666/TicTacToe-New.git/static/js/main.993691c4.js.map"
+    "main.css": "/TicTacToe-New/static/css/main.0afcb9a0.css",
+    "main.js": "/TicTacToe-New/static/js/main.c667e0d2.js",
+    "static/media/ring.png": "/TicTacToe-New/static/media/ring.70414ce1c3e3258600dd.png",
+    "static/media/cross.png": "/TicTacToe-New/static/media/cross.0ab1f11baa7706b4d505.png",
+    "index.html": "/TicTacToe-New/index.html",
+    "main.0afcb9a0.css.map": "/TicTacToe-New/static/css/main.0afcb9a0.css.map",
+    "main.c667e0d2.js.map": "/TicTacToe-New/static/js/main.c667e0d2.js.map"
   },
   "entrypoints": [
     "static/css/main.0afcb9a0.css",
-    "static/js/main.993691c4.js"
+    "static/js/main.c667e0d2.js"
   ]
 }
